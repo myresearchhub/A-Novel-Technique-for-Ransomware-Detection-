@@ -1,6 +1,6 @@
 # A-Novel-Technique-for-Ransomware-Detection-
 Data pre-processing tools for RansomwareDetection/
-├── FeatureExtraction/
+FeatureExtraction/
 │   ├── extract_features.py  # Script for JSON to CSV conversion
 │   └── sample_input.json    # Example JSON file
 ├── Visualization/
