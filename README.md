@@ -1,0 +1,1 @@
+# A-Novel-Technique-for-Ransomware-Detection-
